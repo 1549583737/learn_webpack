@@ -1,0 +1,11 @@
+{
+  "name": "webpack1",
+  "version": "1.0.0",
+  "description": "learn webpack",
+  "main": "index.js",
+   "scripts": {
+    "qqq": "webpack"
+  },
+  "author": "zyx",
+  "license": "ISC"
+}
